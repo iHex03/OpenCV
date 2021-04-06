@@ -1,0 +1,2 @@
+# OPENCV
+Testando o OPENCV, GITHUB e PYHTON
