@@ -7,7 +7,7 @@ import cv2 as cv
 
 
 #0, 1, 2, [...] para webcam, para vídeo apenas botar diretório
-video = cv.VideoCapture(0)
+video = cv.VideoCapture('Videos/PatoGS.mp4')
 
 while True:
     isTrue, frame = video.read()
